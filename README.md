@@ -1,82 +1,85 @@
 # 👋 Hi, I'm Jeren J
 
-💻 Android & Full Stack Developer
-📱 Building real-world apps that solve everyday problems
-📍 Trichy, Tamil Nadu, India
+💻 Android & Full Stack Developer  
+📱 Building real-world apps that solve everyday problems  
+📍 Trichy, Tamil Nadu, India  
 
 ---
 
 ## 🚀 About Me
 
-I am an aspiring developer focused on building practical mobile and web applications with clean design and real-world impact.
+I am a passionate developer focused on building practical mobile and web applications with clean UI, strong functionality, and real-world impact.
 
-I specialize in Android development using Kotlin and Jetpack Compose, and I enjoy creating user-friendly applications that are simple, fast, and effective.
+I specialize in **Android development using Kotlin and Jetpack Compose**, and I enjoy creating fast, user-friendly applications that solve real problems.
 
-Currently, I am:
-
-* 🔨 Building Android apps with real-world use cases
-* 🌱 Improving my full stack development skills
-* 💼 Exploring freelance opportunities
+### Currently I am:
+🔨 Building Android apps with real-world use cases  
+🌱 Improving my Full Stack development skills  
+💼 Exploring freelance opportunities and project-based work  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Android
+### 📱 Android Development
+- Kotlin  
+- Jetpack Compose  
+- XML UI Design  
+- SQLite  
 
-* Kotlin
-* Jetpack Compose
-* XML UI
-* SQLite
-
-### 🌐 Web
-
-* HTML, CSS, JavaScript
-* PHP
-* MySQL
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- MySQL  
 
 ### ⚙️ Tools
-
-* Git & GitHub
-* Android Studio
-* VS Code
+- Git & GitHub  
+- Android Studio  
+- VS Code  
 
 ---
 
 ## 📌 Featured Project
 
-### 💰 VoiceBudget – Expense Tracker App
+### 💰 VoiceBudget – Smart Expense Tracker App
 
-A voice-based Android app that helps users track daily income and expenses easily.
+A modern voice-enabled Android application that helps users track income and expenses easily and efficiently.
 
-🔹 Built with Kotlin & SQLite
-🔹 Simple and user-friendly interface
-🔹 Focused on fast expense entry using voice
+🔹 Built with Kotlin & SQLite  
+🔹 Clean and user-friendly UI  
+🔹 Voice-based expense entry  
+🔹 Smart budget tracking system  
 
-👉 [View Project](https://github.com/jeren-dev/VoiceBudget)
+👉 🔗 GitHub Project: https://github.com/yourusername/VoiceBudget  
 
 ---
 
 ## 🎯 What I Do
 
-* 📱 Android App Development
-* 🌐 Full Stack Development
-* 💼 Freelance App Projects
+📱 Android App Development  
+🌐 Full Stack Web Development  
+💼 Freelance App Projects  
+🧠 Problem Solving & UI Design  
 
 ---
 
 ## 🌱 Goals
 
-I aim to become a professional software developer and build impactful applications.
-Long-term, I plan to grow as a freelancer and start my own tech-based products.
+My goal is to become a professional software engineer and build impactful digital products that solve real-world problems.
+
+In the long term, I aim to grow as a freelance developer and launch my own tech-based applications.
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [jeren3439@gmail.com](mailto:jeren3439@gmail.com)
-* 📸 Instagram: https://instagram.com/mr____jerry__offl
+📧 Email: jeren3439@gmail.com  
+📸 Instagram: https://instagram.com/mr____jerry__offl  
+💼 LinkedIn: https://linkedin.com/in/jeren-j-656a6031b
+🐙 GitHub: https://github.com/jeren-dev
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ Always learning. Always building.
